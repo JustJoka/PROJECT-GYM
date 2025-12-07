@@ -53,7 +53,7 @@ Copiar código
 ## ▶ Como Executar
 
 ### 1️⃣ Clone o repositório
-```bash
+bash
 git clone https://github.com/seu-usuario/projeto-academia.git
 cd projeto-academia
 2️⃣ Instale as dependências
@@ -94,6 +94,11 @@ Depois adicionar no README:
 
 markdown
 Copiar código
+
+![Preview](https://github.com/JustJoka/PROJECT-GYM/blob/main/PROJECT_GYM/assets/Screenshot%202025-12-07%20065831.png?raw=true)
+![Preview](https://github.com/JustJoka/PROJECT-GYM/blob/main/PROJECT_GYM/assets/Screenshot%202025-12-07%20065554.png?raw=true)
+![Preview](https://github.com/JustJoka/PROJECT-GYM/blob/main/PROJECT_GYM/assets/Screenshot%202025-12-07%20065427.png?raw=true)
+
 
 
 
