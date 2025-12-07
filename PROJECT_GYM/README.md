@@ -94,7 +94,8 @@ Depois adicionar no README:
 
 markdown
 Copiar código
-![Preview](./assets/Screenshot%202025-12-07%20065831.png)
+![Preview](./PROJECT_GYM/assets/Screenshot%202025-12-07%20065831.png)
+
 
 
 
