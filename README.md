@@ -28,23 +28,23 @@ Permite **cadastrar, listar, buscar, atualizar e deletar alunos**, com armazenam
 
 ## 📂 Estrutura do Projeto
 
-/projeto-academia
-│
-├── src/
-  ├── academia.db
-│ ├── main.py
-│ ├── interface.py
-│ ├── aluno.py
-│ └── banco.py
-│
-├── database/
-│ └── academia.db (gerado automaticamente)
-│
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
-
+/projeto-academia<br>
+│<br>
+├── src/<br>
+  ├── academia.db<br>
+│ ├── main.py<br>
+│ ├── interface.py<br>
+│ ├── aluno.py<br>
+│ └── banco.py<br>
+│<br>
+├── database/<br>
+│ └── academia.db (gerado automaticamente)<br>
+│<br>
+├── README.md<br>
+├── requirements.txt<br>
+├── LICENSE<br>
+└── .gitignore<br>
+<br>
 yaml
 Copiar código
 
