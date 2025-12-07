@@ -96,6 +96,8 @@ markdown
 Copiar código
 
 ![Preview](https://github.com/JustJoka/PROJECT-GYM/blob/main/PROJECT_GYM/assets/Screenshot%202025-12-07%20065831.png?raw=true)
+![Preview](https://github.com/JustJoka/PROJECT-GYM/blob/main/PROJECT_GYM/assets/Screenshot%202025-12-07%20065554.png?raw=true)
+![Preview](https://github.com/JustJoka/PROJECT-GYM/blob/main/PROJECT_GYM/assets/Screenshot%202025-12-07%20065427.png?raw=true)
 
 
 
