@@ -94,6 +94,7 @@ Depois adicionar no README:
 
 markdown
 Copiar código
-![Preview](./assets/https://github.com/JustJoka/PROJECT-GYM/blob/main/PROJECT_GYM/assets/Screenshot%202025-12-07%20065831.png?raw=true)
+![Preview](./assets/Screenshot%202025-12-07%20065831.png)
+
 
 
